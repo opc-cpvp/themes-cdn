@@ -1,0 +1,147 @@
+p.grid {
+	font-weight:500;
+	font-size:16px;
+	margin-top:21px;
+	margin-bottom:11.5px;
+}
+
+[placeholder], input[placeholder]{
+    /*color: #5c5c5c;*/
+    font-size: small;
+}
+
+main .btn-highlight {
+  color: #fff !important;
+  background-color: #b31885;
+  text-decoration: none;
+}
+
+main .btn-highlight:hover, main .btn-highlight:active, main .btn-highlight:focus {
+    background-color: #000;
+  color: #fff;
+  text-decoration: none;
+}
+
+main .btn-highlight:visited {
+  color: #fff !important;
+  background-color: #b31885;
+  text-decoration: none;
+}
+
+main .btn-highlight:hover, main .btn-highlight:active, main .btn-highlight:focus {
+    background-color: #000;
+  color: #fff;
+  text-decoration: none;
+  }
+
+.pull-right{
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+.pull-left{
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+a.fa {
+	text-decoration:none;
+	color:initial;
+}
+
+a.fa:visited {
+	color:initial;
+}
+
+a.fa:hover {
+	color:#b31885;
+}
+
+div.box-right{
+	float:right; width:18em; display:block;
+	margin: .10em 0;
+	margin-left:10px;
+	padding: 10px;
+	border-style: solid;
+	border-color: #ddd;
+	border-width: 1px 1px 1px 1px;
+	background: #eee;
+	color: #000;
+}
+
+div.clearbox-right{
+	float:right; width:18em; display:block;
+	margin: .10em 0;
+	margin-left: 10px;
+	padding: 10px;
+	border-style: solid;
+	border-color: #ddd;
+	border-width: 1px 1px 1px 1px;
+	background: none;
+	color: #000;
+}
+
+header.brand object {
+	max-height: 85px
+}
+
+section.panel-primary{
+	border-color: #b31885;
+	border-radius: initial;
+}
+
+.carousel-title {
+	font-size: 16px !important;
+}
+
+.carousel-text {
+	font-size: 14px !important;
+}
+
+.box{
+	min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+/* Prevent the "bouncing" of the page when loading the OPC banner SVG - this pre-sets the area at the correct height */
+header[role="banner"] object[type="image/svg+xml"] {
+	max-height: 85px;
+}
+
+.well-blue {
+  min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #dfecf0;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+/*input[type="search"]:focus {*/
+:focus {
+	outline: thin dotted -webkit-focus-ring-color !important;
+	outline: thin dotted !important;
+	outline: 5px auto -webkit-focus-ring-color !important;
+	outline-offset: -2px !important;
+}
+
+article .entry-content img {
+	max-width: 100%;
+	height: auto;
+}
+
+.padding-0 {
+	padding: 0;
+}
+
+.margin--15 {
+	margin: 0 0 0-15px !important;
+}
