@@ -1,0 +1,15 @@
+{
+  "name": "opc-intranet",
+  "version": "1.0.0",
+  "description": "opc-intranet theme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opc-cpvp/themes-cdn.git"
+  },
+  "author": "opc-buildbot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opc-cpvp/opc-intranet/issues"
+  },
+  "homepage": "https://github.com/opc-cpvp/themes-cdn#readme"
+}
