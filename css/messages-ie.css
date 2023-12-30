@@ -1,0 +1,37 @@
+@charset "utf-8";
+/*!
+ * Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+ * wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
+ * v1.0.0 - 2023-12-30
+ *
+ */
+@charset "utf-8";
+/*!
+ * Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+ * wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
+ * v4.0.26 - 2023-12-30
+ *
+ */
+.splash .sp-bx img {
+  height: 20px;
+  width: 214px; }
+  @media (min-width: 992px) {
+    .splash .sp-bx img {
+      height: 100%;
+      width: 100%; } }
+
+.splash .sp-bx .btn {
+  min-width: 75px; }
+  @media (min-width: 992px) {
+    .splash .sp-bx .btn {
+      min-width: 100px; } }
+
+.splash .sp-bx-bt img {
+  height: 20px;
+  width: 82px; }
+  @media (min-width: 992px) {
+    .splash .sp-bx-bt img {
+      height: 100%;
+      width: 100%; } }
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1lc3NhZ2VzLWllLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxpQkFBaUI7QUFDakI7Ozs7O0dBS0c7QUFDSDtFQUNFLGFBQWE7RUFDYixhQUFhLEVBQUU7RUFDZjtJQUNFO01BQ0UsYUFBYTtNQUNiLFlBQVksRUFBRSxFQUFFOztBQUV0QjtFQUNFLGdCQUFnQixFQUFFO0VBQ2xCO0lBQ0U7TUFDRSxpQkFBaUIsRUFBRSxFQUFFOztBQUUzQjtFQUNFLGFBQWE7RUFDYixZQUFZLEVBQUU7RUFDZDtJQUNFO01BQ0UsYUFBYTtNQUNiLFlBQVksRUFBRSxFQUFFIiwiZmlsZSI6Im1lc3NhZ2VzLWllLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIkBjaGFyc2V0IFwidXRmLThcIjtcbi8qIVxuICogV2ViIEV4cGVyaWVuY2UgVG9vbGtpdCAoV0VUKSAvIEJvw650ZSDDoCBvdXRpbHMgZGUgbCdleHDDqXJpZW5jZSBXZWIgKEJPRVcpXG4gKiB3ZXQtYm9ldy5naXRodWIuaW8vd2V0LWJvZXcvTGljZW5zZS1lbi5odG1sIC8gd2V0LWJvZXcuZ2l0aHViLmlvL3dldC1ib2V3L0xpY2VuY2UtZnIuaHRtbFxuICogdjQuMC4yNiAtIDIwMjMtMTItMzBcbiAqXG4gKi9cbi5zcGxhc2ggLnNwLWJ4IGltZyB7XG4gIGhlaWdodDogMjBweDtcbiAgd2lkdGg6IDIxNHB4OyB9XG4gIEBtZWRpYSAobWluLXdpZHRoOiA5OTJweCkge1xuICAgIC5zcGxhc2ggLnNwLWJ4IGltZyB7XG4gICAgICBoZWlnaHQ6IDEwMCU7XG4gICAgICB3aWR0aDogMTAwJTsgfSB9XG5cbi5zcGxhc2ggLnNwLWJ4IC5idG4ge1xuICBtaW4td2lkdGg6IDc1cHg7IH1cbiAgQG1lZGlhIChtaW4td2lkdGg6IDk5MnB4KSB7XG4gICAgLnNwbGFzaCAuc3AtYnggLmJ0biB7XG4gICAgICBtaW4td2lkdGg6IDEwMHB4OyB9IH1cblxuLnNwbGFzaCAuc3AtYngtYnQgaW1nIHtcbiAgaGVpZ2h0OiAyMHB4O1xuICB3aWR0aDogODJweDsgfVxuICBAbWVkaWEgKG1pbi13aWR0aDogOTkycHgpIHtcbiAgICAuc3BsYXNoIC5zcC1ieC1idCBpbWcge1xuICAgICAgaGVpZ2h0OiAxMDAlO1xuICAgICAgd2lkdGg6IDEwMCU7IH0gfVxuIl19 */
