@@ -1,3 +1,20 @@
+.opc-icon {
+    display: inline-block;
+    width: 13.72px;
+    height: 15.56px;
+    /* overflow: hidden; */
+}
+
+.opc-icon > img {
+	position: relative;
+}
+
+@media screen and (max-width: 991px) {
+    .opc-icon {
+        filter: invert(100%);
+    }
+}
+
 p.grid {
 	font-weight:500;
 	font-size:16px;
